@@ -13,9 +13,9 @@ I'm a student who is pursuing medical science as well as is a hobbyist programme
 
 🧠 I'm currently learning Python and web-dev.
 
-📫 How to reach me: You can't! I don't have socials.
+📫 How to reach me: Create a GitHub issue! ;)
 
-😄 Pronouns: He/Him or They/Them
+😄 Pronouns: He/Him
 
 ⚡️ Fun fact: All the cities and towns in the Unova region of Pokemon are named after clouds.
 
